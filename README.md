@@ -17,7 +17,7 @@
    ```bash
    npm start
    ```
-   Navigate to ```http://localhost:3000``
+   Navigate to http://localhost:3000
 
 ### Documentation Setup
 1. Clone the repository:
@@ -33,5 +33,5 @@
    ```bash
    npm start
    ```
-   Navigate to ```http://localhost:3000```.
+   Navigate to http://localhost:3000.
 
